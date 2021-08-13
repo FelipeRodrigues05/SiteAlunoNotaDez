@@ -2,7 +2,7 @@
 
 > Status: Developing ⚠️
 
-### This is a web application planned by professor and passed for me to develop, where I perform a basic site only for information and I based on a template.
+### This is a web application planned by my teacher and passed for me to develop, where I perform a basic site only for information and its a template based.
 
 
 ## Some features this website have:

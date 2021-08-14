@@ -25,3 +25,5 @@ Technology | Version
 HTML       |   5.0
 CSS        |   3.0
 JavaScript |   ECMAScript 2018
+Bootstrap  |   4.41
+PHP        |   7.1

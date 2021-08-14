@@ -1,13 +1,13 @@
 # Aluno Nota Dez!
 
-> Status: Developing ⚠️
+> Status: 95% completed ⚠️
 
 ### This is a web application planned by my teacher and passed for me to develop, where I perform a basic site only for information and its a template based.
 
 
 ## Some features this website have:
 
-* Modal
+
 * Smooth Animations
 * Google Maps using an API
 * Inner Page with a background
